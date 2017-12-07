@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Zonas WiFi gratis Para La Gente</string>
+    
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Ajustes</string>
+    <string name="departamento">Departamento</string>
+    <string name="municipio">Municipio</string>
+    <string name="lugares">Lugares</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="departamento2">Departamento:</string>
+    <string name="municipio2">Municipio:</string>
+    <string name="region2">Región:</string>
+    <string name="direccion2">Dirección:</string>
+    <string name="estado2">¿Zona WiFi inaugurada?</string>
+
+    <string name="inicio">Inicio</string>
+    <string name="acercaDe">Acerca de</string>
+    <string name="mapa">Mapa</string>
+    <string name="actualizar">Actualizar Base de Datos</string>
+    <string name="salir">Salir</string>
+    <string name="tbsc">Trabaja sin conexión</string>
+    <string name="gracias">Gracias por usar la App</string>
+    <string name="creador">Creado por</string>
+    <string name="encuentra">Encuentra tu zona WiFi gratis más cercana</string>
+    <string name="recuerda">Recuerda actualizar la base de datos</string>
+
+</resources>

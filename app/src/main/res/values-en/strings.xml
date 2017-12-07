@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="departamento">Department</string>
+    <string name="municipio">Municipality</string>
+    <string name="lugares">Places</string>
+    <string name="departamento2">Department:</string>
+    <string name="municipio2">Municipality:</string>
+    <string name="region2">Region:</string>
+    <string name="direccion2">Address:</string>
+    <string name="estado2">Wi-Fi zone inaugurated?</string>
+
+    <string name="inicio">Home</string>
+    <string name="acercaDe">About</string>
+    <string name="mapa">Map</string>
+    <string name="actualizar">Update database</string>
+    <string name="salir">Exit</string>
+
+    <string name="tbsc">Work offline</string>
+    <string name="gracias">Thanks for using the App</string>
+
+    <string name="creador">Created by</string>
+    <string name="encuentra">Find your nearest free WiFi zone</string>
+
+    <string name="recuerda">Remember to update the database</string>
+</resources>

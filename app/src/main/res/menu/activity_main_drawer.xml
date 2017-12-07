@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/inicio" />
+        <item
+            android:id="@+id/nav_lugares"
+            android:icon="@drawable/ic_wifi_black_24dp"
+            android:title="@string/lugares" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="@string/acercaDe" />
+    </group>
+
+    <item android:title="@string/tbsc">
+        <menu>
+
+            <item
+                android:id="@+id/nav_mapa"
+                android:icon="@drawable/ic_map_black_24dp"
+                android:title="@string/mapa" />
+
+            <item
+                android:id="@+id/nav_actualizar"
+                android:icon="@drawable/ic_update_black_24dp"
+                android:title="@string/actualizar" />
+        </menu>
+    </item>
+
+    <item android:title="@string/gracias">
+        <menu>
+            <item
+                android:id="@+id/nav_salir"
+                android:icon="@drawable/ic_exit_to_app_black_24dp"
+                android:title="@string/salir" />
+        </menu>
+    </item>
+
+</menu>
